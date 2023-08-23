@@ -1,0 +1,13 @@
+.footer {
+    width: 100vw;
+    /* min-width: 500px; */
+    background-color: rgb(1, 50, 67);
+    text-align: center;
+    color: aliceblue;
+    display: block;
+    padding-top: 10px;
+    display: block;
+    padding: 5px;
+
+    
+}
